@@ -1,0 +1,13 @@
+C:\Users\justin.ross\source\repos\Ratchet IO\Ratchet IO\bin\x64\Debug\Ratchet IO.exe.config
+C:\Users\justin.ross\source\repos\Ratchet IO\Ratchet IO\bin\x64\Debug\Ratchet IO.exe
+C:\Users\justin.ross\source\repos\Ratchet IO\Ratchet IO\bin\x64\Debug\Ratchet IO.pdb
+C:\Users\justin.ross\source\repos\Ratchet IO\Ratchet IO\bin\x64\Debug\Ratchet IO.xml
+C:\Users\justin.ross\source\repos\Ratchet IO\Ratchet IO\obj\x64\Debug\Ratchet IO.vbproj.AssemblyReference.cache
+C:\Users\justin.ross\source\repos\Ratchet IO\Ratchet IO\obj\x64\Debug\Ratchet_IO.Form1.resources
+C:\Users\justin.ross\source\repos\Ratchet IO\Ratchet IO\obj\x64\Debug\Ratchet_IO.Resources.resources
+C:\Users\justin.ross\source\repos\Ratchet IO\Ratchet IO\obj\x64\Debug\Ratchet IO.vbproj.GenerateResource.cache
+C:\Users\justin.ross\source\repos\Ratchet IO\Ratchet IO\obj\x64\Debug\Ratchet IO.vbproj.CoreCompileInputs.cache
+C:\Users\justin.ross\source\repos\Ratchet IO\Ratchet IO\obj\x64\Debug\Ratchet IO.exe
+C:\Users\justin.ross\source\repos\Ratchet IO\Ratchet IO\obj\x64\Debug\Ratchet IO.xml
+C:\Users\justin.ross\source\repos\Ratchet IO\Ratchet IO\obj\x64\Debug\Ratchet IO.pdb
+C:\Users\justin.ross\source\repos\Ratchet IO\Ratchet IO\obj\x64\Debug\Ratchet IO.vbproj.ResolveComReference.cache
